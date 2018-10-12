@@ -1,5 +1,5 @@
 # PHPWatchDog
-Python 2.7 script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
+Python 2.7 script to monitor Webserver pages avaiability. Supports SMTP mail alerts avaliable.
 
 <center><h2>Documentation:</h2></center>
 <center><h3>Features</h3></center>
