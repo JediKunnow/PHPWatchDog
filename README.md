@@ -48,7 +48,7 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
   </table>
     
   <table id="smtp">
-    <tr><td><h4>SMTP Array description</h4></td></tr>
+    <tr><td colspan="2"><h4>SMTP Array description</h4></td></tr>
   <tr><th>Property name</th><th>Description</th></tr>
   <tr>
     <td>enable</td>
