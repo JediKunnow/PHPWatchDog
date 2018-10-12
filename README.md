@@ -28,7 +28,7 @@ Python 2.7 script to monitor Webserver pages avaiability. Supports SMTP mail ale
     </tr>
     <tr>
       <td>services</td>
-      <td>list of addresses of the web pages you want to monitor\nex: https://github.com</td>
+      <td>list of addresses of the web pages you want to monitor<br>ex: https://github.com</td>
     </tr>
     <tr>
       <td>log</td>
@@ -36,7 +36,7 @@ Python 2.7 script to monitor Webserver pages avaiability. Supports SMTP mail ale
     </tr>
     <tr>
       <td>delay</td>
-      <td>delay between each check, it must be expressed in seconds.\nex: 180 /* 3 minutes */</td>
+      <td>delay between each check, it must be expressed in seconds.<br>ex: 180 /* 3 minutes */</td>
     </tr>
     <tr>
       <td><a href="#smtp">smtp</td>
