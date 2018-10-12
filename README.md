@@ -38,7 +38,7 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
       <td>delay between each check, it must be expressed in seconds.\nex: 180 /* 3 minutes */</td>
     </tr>
     <tr>
-      <td>smtp</td>
+      <td><a href="#smtp">smtp</td>
       <td>SMTP configuration array ( see below ) </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
       <td>If "True" debug messages will be prompted on the console.</td>
     </tr>
   </table>
-    <h3>SMTP Array description</h3>
+    <h4 id="smtp">SMTP Array description</h4>
     <table>
     <tr><th>Property name</th><th>Description</th></tr>
     <tr>
