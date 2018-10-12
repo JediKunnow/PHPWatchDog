@@ -19,9 +19,9 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
     <li><strong>PHPWatchDog/PHPWD.sh</strong> - Persistent start on Unix / Linux </li>
   </ul>
     
-   <strong>The file is JSON formatted. Please <a href="https://www.w3schools.com/js/js_json_syntax.asp">read more about it</a> if you don't know JSON Syntax.</strong><br>
+   <br><br><strong>The file is JSON formatted. Please <a href="https://www.w3schools.com/js/js_json_syntax.asp">read more about it</a> if you don't know JSON Syntax.</strong><br>
   <table>
-  <tr><td align="middle"><strong>Configuration File</strong></td></tr>
+  <tr><td align="middle" colspan="2"><strong>Configuration File</strong></td></tr>
     <tr>
       <th>Property name</th>
       <th>Description</th> 
