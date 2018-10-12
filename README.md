@@ -46,8 +46,8 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
       <td>If "True" debug messages will be prompted on the console.</td>
     </tr>
   </table>
-  <h3>SMTP Array description</h3>
-  <table>
+    <h3>SMTP Array description</h3>
+    <table>
     <tr><th>Property name</th><th>Description</th></tr>
     <tr>
       <td>enable</td>
@@ -92,5 +92,9 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
       <tr>
         <td>msg</td>
         <td>The email message to send to the user. If you want to edit this be careful about the binding values (ex: %s)</td>
+      </tr>
+      <tr>
+        <td>debug</td>
+        <td>If "True" print libsmtp debug on console.</td>
       </tr>
   </table>
