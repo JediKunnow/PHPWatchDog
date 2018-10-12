@@ -39,7 +39,7 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
     </tr>
     <tr>
       <td>smtp</td>
-      <td>it contains an array with all smtp options</td>
+      <td>SMTP configuration array ( see below ) </td>
     </tr>
     <tr>
       <td>debug</td>
