@@ -18,9 +18,10 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
     <li><strong>PHPWatchDog/PHPWatchDog.log</strong> - Log file</li>
     <li><strong>PHPWatchDog/PHPWD.sh</strong> - Persistent start on Unix / Linux </li>
   </ul>
-    <center><h3>Configuration File</h3></center><br>
-    <strong>The file is JSON formatted. Please <a href="https://www.w3schools.com/js/js_json_syntax.asp">read more about it</a> if you don't know JSON Syntax.</strong><br>
+    
+   <strong>The file is JSON formatted. Please <a href="https://www.w3schools.com/js/js_json_syntax.asp">read more about it</a> if you don't know JSON Syntax.</strong><br>
   <table>
+  <tr><td><center><h3>Configuration File</h3></center></td></tr>
     <tr>
       <th>Property name</th>
       <th>Description</th> 
@@ -48,7 +49,7 @@ Python script to monitor Webserver pages avaiability. Supports SMTP mail alerts.
   </table>
     
   <table id="smtp">
-    <tr><td colspan="2"><h4>SMTP Array description</h4></td></tr>
+    <tr><td colspan="2"><strong>SMTP Array description</strong></td></tr>
   <tr><th>Property name</th><th>Description</th></tr>
   <tr>
     <td>enable</td>
